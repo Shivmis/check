@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Badnam_xd_real_yadav")
+OWNER_USERNAME = getenv("OWNER_USERNAME","shivang_mishra_op)
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","YT_MUSIC_20BOT")
+BOT_USERNAME = getenv("BOT_USERNAME","Aaradhyamusicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
